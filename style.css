@@ -1,0 +1,9 @@
+body {
+  background-color: tan;
+  margin: 40px auto;
+  max-width: 800px;
+  font-family: monospace;
+  font-size: 1.4em;
+  line-height: 1.5em;
+	padding: 0 10px;
+}
